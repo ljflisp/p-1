@@ -16,10 +16,10 @@
  # mv 算法/源码/main.cpp 算法/源码/simple_static_linkedlist.cpp
  # mv Simple_Static_Linked_List 算法
 
-echo "# p-1" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/ljflisp/p-1.git
-git push -u origin main
+#echo "# p-1" >> README.md
+#git init
+#git add README.md
+#git commit -m "first commit"
+#git branch -M main
+#git remote add origin https://github.com/ljflisp/p-1.git
+#git push -u origin main
