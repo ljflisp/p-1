@@ -1,0 +1,8 @@
+
+
+
+# my script function
+
+function addem {
+   echo $[ $1 + $2 ];
+}

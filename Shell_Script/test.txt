@@ -1,0 +1,4 @@
+ls: cannot access 'test': No such file or directory
+ls: cannot access 'test2': No such file or directory
+ls: cannot access 'test3': No such file or directory
+ls: cannot access 'test4': No such file or directory
